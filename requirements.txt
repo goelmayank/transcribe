@@ -1,0 +1,4 @@
+Flask==1.1.2
+requests
+bs4
+youtube_transcript_api
